@@ -195,7 +195,7 @@ footer {
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 380px) {
   .img-april img {
     width: 90%;
     margin-top: 10px;
