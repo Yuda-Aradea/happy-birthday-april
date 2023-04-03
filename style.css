@@ -115,7 +115,7 @@ hr {
 }
 
 .card img:hover {
-  transform: scale(1.075);
+  transform: scale(1.085);
 }
 
 .card-body p {
