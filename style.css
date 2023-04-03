@@ -3,9 +3,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: 'Poppins', sans-serif;
   color: #fff;
+  overflow-x: hidden;
 }
 
 @keyframes zoom {
@@ -183,17 +185,17 @@ footer {
   }
   .card {
     font-size: 13px;
-    width: 23rem !important;
+    width: 24rem !important;
   }
 
   .galery-img img {
-    width: 180px;
-    height: 240px;
+    width: 200px;
+    height: 250px;
     margin-bottom: 20px;
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 350px) {
   .img-april img {
     width: 90%;
     margin-top: 10px;
