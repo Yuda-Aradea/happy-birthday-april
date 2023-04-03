@@ -183,12 +183,47 @@ footer {
   }
   .card {
     font-size: 13px;
+    width: 23rem !important;
+  }
+
+  .galery-img img {
+    width: 180px;
+    height: 240px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 300px) {
+  .img-april img {
+    width: 90%;
+    margin-top: 10px;
+  }
+
+  .text-hero h1 {
+    font-size: 22px;
+  }
+
+  .text-hero h3 {
+    font-size: 20px;
+  }
+
+  .text-hero p {
+    text-align: justify;
+    font-size: 14px;
+  }
+
+  .text-content p {
+    text-align: justify;
+    font-size: 13px;
+  }
+  .card {
+    font-size: 13px;
     width: 21rem !important;
   }
 
   .galery-img img {
-    width: 165px;
-    height: 230px;
+    width: 150px;
+    height: 225px;
     margin-bottom: 20px;
   }
 }
