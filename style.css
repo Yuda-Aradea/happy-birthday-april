@@ -189,7 +189,7 @@ footer {
   }
 
   .card img {
-    height: 340px;
+    height: 350px;
   }
 
   .galery-img img {
@@ -225,6 +225,10 @@ footer {
   .card {
     font-size: 13px;
     width: 20rem !important;
+  }
+
+  .card img {
+    height: 310px;
   }
 
   .galery-img img {
